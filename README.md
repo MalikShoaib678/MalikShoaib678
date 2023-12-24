@@ -11,7 +11,9 @@
     <li>👨‍💻 Programmer 💡</li>
     <li>⚔️ Ethical Hacker 🛡️</li>
   </ul>
-
+  
+<p><b><i>🔭 Exploring the vast ocean of technology.<br>
+💡 Turning ideas into innovation, one line of code at a time:)</i></b></p>
   
 </body>
 </html>
