@@ -6,10 +6,10 @@
   </div>
 
   <ul>
-    <li>Learning(🐞 Bug Bounty Hunter 🕵️‍♂️)</li>
-    <li>Learning(💻 Web App Developer 🌐)</li>
-    <li>Noob(👨‍💻 Programmer 💡)</li>
-    <li>Noob(⚔️ Ethical Hacker 🛡️)</li>
+    <li>Trying2B(🐞 Bug Bounty Hunter 🕵️‍♂️)</li>
+    <li>Trying2B(💻 Web App Developer 🌐(onlyfrontend)</li>
+    <li>Trying2B(👨‍💻 Programmer 💡)</li>
+    <li>Trying2B(⚔️ Ethical Hacker 🛡️)</li>
   </ul>
   
 <p><b><i>🔭 Exploring the vast ocean of technology.<br>
