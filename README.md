@@ -6,10 +6,10 @@
   </div>
 
   <ul>
-    <li>Trying2B(🐞 Bug Bounty Hunter 🕵️‍♂️)</li>
-    <li>Trying2B(💻 Web App Developer 🌐(onlyfrontend)</li>
-    <li>Trying2B(👨‍💻 Programmer 💡)</li>
-    <li>Trying2B(⚔️ Ethical Hacker 🛡️)</li>
+    <li>(🐞 Begaineer Bug Bounty Hunter 🕵️‍♂️)</li>
+    <li>(💻 Begaineer Web App Developer 🌐(onlyBackend)</li>
+    <li>(👨‍💻 Begaineer Programmer 💡)</li>
+    <li>(⚔️ Begaineer Ethical Hacker 🛡️)</li>
   </ul>
   
 <p><b><i>🔭 Exploring the vast ocean of technology.<br>
